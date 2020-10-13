@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: poc-va-dev-portal-backstage-test-react-app
+  description: test react app
+spec:
+  type: website
+  lifecycle: experimental
+  owner: ThoughtWorks-DPS/va-dev-portal
