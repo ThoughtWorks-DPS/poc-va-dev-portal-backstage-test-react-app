@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: poc-va-dev-portal-backstage-test-react-app
   description: test react app
+  annotations:
+    backstage.io/techdocs-ref: dir:./
 spec:
   type: website
   lifecycle: experimental
